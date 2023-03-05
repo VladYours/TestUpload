@@ -4,6 +4,7 @@ Working project on Laravel located by url:
 https://testupload.landos.top/upload
 
 You can uploads only .csv or .txt<br/>
+Over hosting restriction You can upload file with size less 1 MB or with less then 20 000 rows<br/>
 File for upload must have so structure:
 
 toys,Maribel,Towne,dagmar75@gmail.com,female,1972-05-05<br/>
